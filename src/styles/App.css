@@ -1,0 +1,27 @@
+.App-title, 
+.App-header {
+  margin:0;
+  padding: 0;
+}
+
+.select-station {
+  margin: 0.5rem;
+}
+
+.select-station > select {
+  font-size: 1rem;
+}
+.select-station > label {
+  font-size: 1rem;
+  margin-right: .25rem;
+}
+
+.schedule-title-station_name{
+  text-decoration-line: underline;
+}
+
+.btn-query {
+  margin-top: .5rem;
+  font-size: 1rem;
+  font-style: oblique;
+}
